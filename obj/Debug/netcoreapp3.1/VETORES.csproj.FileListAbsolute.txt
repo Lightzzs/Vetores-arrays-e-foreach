@@ -1,0 +1,13 @@
+C:\Users\VINICIUS\Desktop\SENAI\VETORES\bin\Debug\netcoreapp3.1\VETORES.exe
+C:\Users\VINICIUS\Desktop\SENAI\VETORES\bin\Debug\netcoreapp3.1\VETORES.deps.json
+C:\Users\VINICIUS\Desktop\SENAI\VETORES\bin\Debug\netcoreapp3.1\VETORES.runtimeconfig.json
+C:\Users\VINICIUS\Desktop\SENAI\VETORES\bin\Debug\netcoreapp3.1\VETORES.runtimeconfig.dev.json
+C:\Users\VINICIUS\Desktop\SENAI\VETORES\bin\Debug\netcoreapp3.1\VETORES.dll
+C:\Users\VINICIUS\Desktop\SENAI\VETORES\bin\Debug\netcoreapp3.1\VETORES.pdb
+C:\Users\VINICIUS\Desktop\SENAI\VETORES\obj\Debug\netcoreapp3.1\VETORES.csprojAssemblyReference.cache
+C:\Users\VINICIUS\Desktop\SENAI\VETORES\obj\Debug\netcoreapp3.1\VETORES.AssemblyInfoInputs.cache
+C:\Users\VINICIUS\Desktop\SENAI\VETORES\obj\Debug\netcoreapp3.1\VETORES.AssemblyInfo.cs
+C:\Users\VINICIUS\Desktop\SENAI\VETORES\obj\Debug\netcoreapp3.1\VETORES.csproj.CoreCompileInputs.cache
+C:\Users\VINICIUS\Desktop\SENAI\VETORES\obj\Debug\netcoreapp3.1\VETORES.dll
+C:\Users\VINICIUS\Desktop\SENAI\VETORES\obj\Debug\netcoreapp3.1\VETORES.pdb
+C:\Users\VINICIUS\Desktop\SENAI\VETORES\obj\Debug\netcoreapp3.1\VETORES.genruntimeconfig.cache
